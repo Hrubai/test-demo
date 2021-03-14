@@ -13,6 +13,7 @@ class Todolist extends Component{
                 <button>Submit</button> 
                 <ul>
                     <li> Abai</li> 
+                    <li> Bai</li> 
                 </ul>  
             </div>)
 
